@@ -1,0 +1,9 @@
+{"error","#E06C75"},
+{"ERROR","#E06C75"},
+{"warning","#E5C07B"},
+{"WARNING","#E5C07B"},
+{"info","#56B6C2"},
+{"INFO","#56B6C2"},
+{"OK","#98C379"},
+{"SUCCESS","#98C379"},
+{"FAILED","#E06C75"}
