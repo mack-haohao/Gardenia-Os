@@ -1,5 +1,5 @@
 # 🌸 Gardenia OS
-
+Ps:English-version avilible down there~
 > A tiny, hand-rolled, highly customized Linux distribution built completely from scratch.  
 > 一个从零开始、纯手写、带自我学习能力的极简 Linux 发行版。
 
